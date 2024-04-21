@@ -5,4 +5,6 @@ show_excerpts: true
 entries_layout: list
 ---
 
-![thegilamonsters](/images/gilamonsters.png){: width="256" }
+{:refdef: style="text-align: center;"}
+![thegilamonsters](/images/gilamonsters.png){: width="512" }
+{: refdef}
