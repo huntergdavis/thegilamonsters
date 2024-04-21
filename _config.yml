@@ -87,7 +87,7 @@ defaults:
       share: true
 
 # Site Author
-author: Hunter Gila
+author: 
   name: Hunter Gila
   picture:
   email:
