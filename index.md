@@ -4,3 +4,5 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
+
+![thegilamonsters](/images/gilamonsters.png){: width="256" }
